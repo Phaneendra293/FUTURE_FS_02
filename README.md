@@ -61,12 +61,11 @@ Lost
 
 * Search by:
 
-  * Name
-  * Email
-  * Company
-
-* Filter by lead status
-
+  * New
+  * Contacted
+  * Qualified
+  * Converted
+  * Lost
 ##  Secure Authentication
 
 * Admin-only access
